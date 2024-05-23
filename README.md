@@ -1,3 +1,7 @@
+<p align="center">
+  <img alt="Joshua Vargas" src="https://raw.githubusercontent.com/jvargscode/jvargscode/main/banner.jpg">
+</p>
+
 ## 👋 Hey everyone! I'm Joshua Vargas
 
 ### 💫 About Me:
