@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Joshua Vargas" src="https://raw.githubusercontent.com/jvargscode/jvargscode/main/banner.jpg">
+  <img alt="Joshua Vargas" src="https://raw.githubusercontent.com/jvargscode/jvargscode/main/Banner.jpg">
 </p>
 
 ## 👋 Hey everyone! I'm Joshua Vargas
